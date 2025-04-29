@@ -1,0 +1,30 @@
+{
+  "name": "easy-mailer",
+  "version": "1.0.0",
+  "description": "A simple and easy way to send email notifications with Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "email",
+    "mailer",
+    "notifications",
+    "nodemailer",
+    "nodejs"
+  ],
+  "author": "omar",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "nodemailer": "^6.10.1"
+  },
+  "repository": {                
+    "type": "git",
+    "url": "https://github.com/OmarMohammedCs/easy-mailer.git"
+  },
+  "bugs": {                      
+    "url": "https://github.com/OmarMohammedCs/easy-mailer/issues"
+  },
+  "homepage": "https://github.com/OmarMohammedCs/easy-mailer#readme"
+}
